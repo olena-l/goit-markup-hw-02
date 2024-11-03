@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #404bbf;
+}
+
 ul,
 ol {
   list-style-type: none;
@@ -49,7 +53,7 @@ ol {
   color: #404bbf;
 }
 
-.nav-contacts {
+.address {
   font-family: inherit;
   font-size: 16px;
   line-height: 1.5;
@@ -58,7 +62,7 @@ ol {
   font-style: normal;
 }
 
-.nav-contacts:hover {
+.address:hover {
   color: #404bbf;
 }
 
