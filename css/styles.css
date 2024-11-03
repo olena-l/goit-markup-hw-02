@@ -53,7 +53,7 @@ ol {
   color: #404bbf;
 }
 
-.address {
+.nav-contacts {
   font-family: inherit;
   font-size: 16px;
   line-height: 1.5;
@@ -62,7 +62,7 @@ ol {
   font-style: normal;
 }
 
-.address:hover {
+.nav-contacts:hover {
   color: #404bbf;
 }
 
@@ -93,6 +93,10 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+.subtitle-team {
+  text-transform: capitalize;
 }
 
 .subtitle-item {
