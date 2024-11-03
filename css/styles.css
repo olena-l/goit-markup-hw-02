@@ -32,7 +32,9 @@ ol {
 }
 
 .logo .logo-dark:hover,
-.logo .logo-dark:focus {
+.logo .logo-dark:focus,
+.button:hover,
+.button:focus {
   color: #404bbf;
 }
 
@@ -83,6 +85,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 
@@ -114,6 +117,10 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.section-principles {
+  background-color: #2e2f42;
 }
 
 .section-team {
