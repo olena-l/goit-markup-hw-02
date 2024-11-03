@@ -32,9 +32,9 @@ ol {
 }
 
 .logo .logo-dark:hover,
-.logo .logo-dark:focus,
+.logo .logo-dark:active,
 .button:hover,
-.button:focus {
+.button:active {
   color: #404bbf;
 }
 
@@ -98,7 +98,8 @@ ol {
   color: #2e2f42;
 }
 
-.subtitle-team {
+.subtitle-team,
+.subtitle-portfolio {
   text-transform: capitalize;
 }
 
