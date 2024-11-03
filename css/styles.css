@@ -32,9 +32,15 @@ ol {
 }
 
 .logo .logo-dark:hover,
-.logo .logo-dark:active,
-.button:hover,
-.button:active {
+.logo .logo-dark:focus {
+  color: #404bbf;
+}
+
+.button:hover {
+  color: #404bbf;
+}
+
+.button:focus {
   color: #404bbf;
 }
 
@@ -118,6 +124,10 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.section-title {
+  background-color: #2e2f42;
 }
 
 .section-principles {
