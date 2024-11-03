@@ -37,11 +37,11 @@ ol {
 }
 
 .button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .logo .logo-light {
@@ -131,7 +131,7 @@ ol {
 }
 
 .section-principles {
-  background-color: #2e2f42;
+  background-color: inherit;
 }
 
 .section-team {
