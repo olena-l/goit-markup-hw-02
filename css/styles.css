@@ -33,7 +33,7 @@ ol {
 
 .logo .logo-dark:hover,
 .logo .logo-dark:focus,
-.nav-first-item:focus {
+.nav-item:focus {
   color: #404bbf;
 }
 
