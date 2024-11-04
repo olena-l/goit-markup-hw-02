@@ -32,7 +32,8 @@ ol {
 }
 
 .logo .logo-dark:hover,
-.logo .logo-dark:focus {
+.logo .logo-dark:focus,
+.nav-first-item:focus {
   color: #404bbf;
 }
 
@@ -60,9 +61,9 @@ ol {
   color: #2e2f42;
 }
 
-.nav-item:hover {
+/* .nav-item:hover {
   color: #404bbf;
-}
+} */
 
 .nav-contacts {
   font-family: inherit;
@@ -72,7 +73,9 @@ ol {
   color: #434455;
 }
 
-.nav-contacts:hover {
+.nav-item:hover,
+.nav-contacts:hover,
+.nav-contacts:focus {
   color: #404bbf;
 }
 
