@@ -48,6 +48,9 @@ ol {
   color: #f4f4fd;
 }
 
+.address-contacts {
+  font-style: normal;
+}
 .nav-item {
   font-family: inherit;
   font-weight: 500;
@@ -67,7 +70,6 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
 
 .nav-contacts:hover {
